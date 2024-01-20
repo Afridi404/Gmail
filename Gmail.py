@@ -114,7 +114,7 @@ logo=(f"""\033[1;37m
 \033[1;32m  • \033[1;37m Tool Owner :-  Afridi-King
 \033[1;32m  • \033[1;37m GitHub     :-  Afridi404
 \033[1;32m  • \033[1;37m Type       :-  Paid
-\033[1;32m  • \033[1;37m Version    :-  {version}""")
+\033[1;32m  • \033[1;37m Version    :-  {version v3.4
 os.system('clear')
 #print("\033[1;32m [•]\033[1;37m Join My FaceBook Group...! \033[1;32mThnx");time.sleep(2);os.system('xdg-open https://facebook.com/groups/1245912839659325/')
 
